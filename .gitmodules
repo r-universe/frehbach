@@ -8,8 +8,3 @@
 	url = https://github.com/frehbach/eventdetectr
 	shallow = true
 	registered = true
-[submodule "spotGUI"]
-	path = spotGUI
-	url = https://github.com/cran/spotGUI
-	shallow = true
-	registered = true
